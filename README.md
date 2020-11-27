@@ -13,13 +13,17 @@ You can run the app locally or in Heroku:
 Python 3.8
 Follow instructions to install the latest version of python here (https://docs.python.org/3/)
 
+
 PIP Dependencies
 Install dependencies by running:
 ```pip install -r requirements.txt```
+
 This will install all of the required packages within the requirements.txt file.
 
 *All needed variables are saved in setup.sh*
 
+Run the app using this command:
+```python app.py```
 
 ### Authentication: 
 I used Auth0 tokens for the authentication. There are three roles for the casting agency:
