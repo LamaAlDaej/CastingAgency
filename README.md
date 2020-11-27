@@ -22,7 +22,15 @@ This will install all of the required packages within the requirements.txt file.
 
 *All needed variables are saved in setup.sh*
 
-Run the app using this command:
+### Run the server locally:
+
+Create a local database using postgresql, run the following:
+```
+createdb agency
+psql agency < agency.psql
+```
+
+Then run the app using this command:
 ```python app.py```
 
 ### Authentication: 
