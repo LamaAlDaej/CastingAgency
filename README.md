@@ -23,8 +23,11 @@ This will install all of the required packages within the requirements.txt file.
 
 ### Authentication: 
 I used Auth0 tokens for the authentication. There are three roles for the casting agency:
+
 **Casting Assistant**
+
 - Can view actors and movies
+
 **Casting Director**
 - Can view actors and movies
 - Add or delete an actor from the database
