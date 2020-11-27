@@ -29,13 +29,21 @@ I used Auth0 tokens for the authentication. There are three roles for the castin
 - Can view actors and movies
 
 **Casting Director**
+
 - Can view actors and movies
+
 - Add or delete an actor from the database
+
 - Modify actors or movies
+
 **Executive Producer**
+
 - Can view actors and movies
+
 - Add or delete an actor from the database
+
 - Modify actors or movies
+
 - Add or delete a movie from the database
 
 ## Test
