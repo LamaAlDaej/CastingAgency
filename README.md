@@ -1,7 +1,9 @@
 # Casting Agency
 
 ## Introduction
-This is my capstone project for the full-stack developer Nanodegree. The Casting Agency models a company that is responsible for creating movies and managing and assigning actors to those movies. 
+This is my capstone project for Udacity's full-stack developer Nanodegree to use all of the concepts and the skills that I gained from Nanodegree's courses.
+
+Nowadays, it is as important to have a website as much as to have a store or office as it makes the work easier and clearer. The Casting Agency app models a company that is responsible for creating movies and managing and assigning actors to those movies.  It is used to facilitate its process. Based on the user's role, he/she can retrieve movies and actors data from the server and add/remove/update data of a movie or an actor.
 
 ## Getting Started
 ### Base URL
